@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Large data files (obtain from AgVia data pipeline)
+data/tray_microclimate.csv
+data/production_clean.csv
+data/air_clean.csv
+data/water_clean.csv
+data/rf_predictions.csv
+data/raw/
+
+# Temporary / repo maintenance scripts
+move_files.bat
+data/test_write.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.swp

@@ -1,0 +1,2 @@
+eps_LUE,K,SLA,Rm,DM_fraction,init_day,R2,RMSE_gDM_m2,MAPE_pct,note
+1.673,0.8,0.028,0.012,0.06,5,0.504,32.64,31.3,DM 6% assumed (whole plant FW); measure oven-dry to refine
